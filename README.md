@@ -1,5 +1,5 @@
 # Telegram-Chatid
-This is private automation to found your chat id in telegram bot
+This is automation script to found your chat id in your private telegram bot
 
 # How To Using Script
 1. You should know your bot token here
