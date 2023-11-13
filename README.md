@@ -2,7 +2,7 @@
 This is automation script to find your chat id in your private telegram bot (Termux, and all of linux os)
 
 # How To Using Script
-1. You should know your bot token here
+1. You should know your bot token [here](https://t.me/BotFather)
 2. Download this script ```git clone https://github.com/lifanwar/Telegram-Chatid```
 3. Open file ```cd Telegram-Chatid```
 4. run script ```bash chatid.sh```
